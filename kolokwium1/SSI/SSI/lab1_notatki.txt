@@ -1,0 +1,6 @@
+normalizacja konwersja na mniejsze przedziały <min,max> najlepiej od <0,1> x' = (x-min)/(max-min)
+tasowanie - algorytm Knutta [1,2,3,4] i=3 j=rn.randint(0,2) #(0,i-1) i,j = j,i przechodzimy od końca i zamieniamy
+
+x.iloc[1] #row
+x.loc[?] #column
+x.at[wiersz,kolumna]

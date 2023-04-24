@@ -1,0 +1,5 @@
+﻿product_name,red,orange,sweet,spicy,round,spiky,has_seeds,soft
+paprika,1,1,1,1,1,1,1,0
+tomato,1,0,1,0,1,0,1,1
+onion,1,0,1,1,1,0,0,0
+carrot,0,1,1,0,0,1,0,0
