@@ -9,7 +9,7 @@ import statistics
 
 # In[2]:
 
-redWine = pd.read_csv(r'winequality-red.csv', sep=';')
+redWine = pd.read_csv(r'winequality-red.csv', sep=',')
 whiteWine = pd.read_csv(r'winequality-white.csv', sep=";")
 
 # %%

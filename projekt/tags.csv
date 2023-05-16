@@ -1,0 +1,98 @@
+tasty_index,name,id,display_name,type
+13,big_batch,65851,Big Batch,cooking_style
+14,kid_friendly,64488,Kid-Friendly,cooking_style
+15,bake,64492,Bake,cooking_style
+16,breakfast,64483,Breakfast,meal
+20,bakery_goods,65857,Bakery Goods,meal
+21,american,64444,American,cuisine
+23,drinks,64487,Drinks,meal
+24,5_ingredients_or_less,64470,5 Ingredients or Less,difficulty
+25,low_calorie,8091916,Low-Calorie,healthy
+28,easy,64471,Easy,difficulty
+29,gluten_free,64465,Gluten-Free,dietary
+31,vegetarian,64469,Vegetarian,dietary
+32,under_1_hour,8091748,Under 1 Hour,difficulty
+33,under_45_minutes,8091747,Under 45 Minutes,difficulty
+34,high_protein,8091917,High-Protein,healthy
+38,kid_friendly,64488,Kid-Friendly,dietary
+39,fusion,65410,Fusion,cuisine
+47,steam,64498,Steam,method
+49,japanese,64454,Japanese,cuisine
+53,comfort_food,64462,Comfort Food,dietary
+68,indulgent_sweets,65850,Indulgent Sweets,dietary
+75,bake,64492,Bake,method
+81,dairy_free,64463,Dairy-Free,dietary
+92,one_pot_or_pan,65855,One-Pot or Pan,cooking_style
+94,pan_fry,65859,Pan Fry,cooking_style
+96,healthy,64466,Healthy,dietary
+105,pan_fry,65859,Pan Fry,method
+142,low_fat,8091919,Low-Fat,healthy
+143,low_sugar,8091918,Low-Sugar,healthy
+163,low_carb,64467,Low-Carb,healthy
+167,mashup,65852,Mashup,cooking_style
+168,snacks,64491,Snacks,meal
+190,winter,64511,Winter,seasonal
+199,british,64447,British,cuisine
+204,comfort_food,64462,Comfort Food,cooking_style
+229,high_fiber,8091920,High-Fiber,healthy
+243,french,64449,French,cuisine
+280,desserts,64485,Desserts,meal
+342,under_15_minutes,8091744,Under 15 Minutes,difficulty
+343,under_30_minutes,64472,Under 30 Minutes,difficulty
+355,keto,8091756,Keto,dietary
+507,summer,64510,Summer,seasonal
+510,no_bake_desserts,65854,No Bake Desserts,cooking_style
+578,vegan,64468,Vegan,dietary
+792,mexican,64457,Mexican,cuisine
+805,spring,64509,Spring,seasonal
+842,italian,64453,Italian,cuisine
+863,lunch,64489,Lunch,meal
+919,fall,64508,Fall,seasonal
+1232,german,64450,German,cuisine
+1295,meal_prep,65853,Meal Prep,cooking_style
+1308,dinner,64486,Dinner,meal
+1365,appetizers,64481,Appetizers,meal
+1535,sides,64490,Sides,meal
+1589,african,3801553,African,cuisine
+1599,middle_eastern,64458,Middle Eastern,cuisine
+2387,deep_fry,64493,Deep-Fry,method
+2427,latin_american,64456,Latin American,cuisine
+3234,grill,64494,Grill,method
+3492,dominican,6953047,Dominican,cuisine
+3940,pescatarian,3801552,Pescatarian,dietary
+3951,seafood,64459,Seafood,cuisine
+4354,chinese,64448,Chinese,cuisine
+4400,greek,64451,Greek,cuisine
+5509,contains_alcohol,5285641,Contains Alcohol,dietary
+5820,indian,64452,Indian,cuisine
+6438,steam,64498,Steam,cooking_style
+6443,stuffed,65856,Stuffed,cooking_style
+7575,caribbean,3801554,Caribbean,cuisine
+8458,filipino,6953008,Filipino,cuisine
+8613,taiwanese,6953039,Taiwanese,cuisine
+8641,korean,64455,Korean,cuisine
+8964,jamaican,6953049,Jamaican,cuisine
+9023,brunch,189013,brunch,meal
+10100,swedish,6953040,Swedish,cuisine
+11960,deep_fry,64493,Deep-Fry,cooking_style
+12180,west_african,6953016,West African,cuisine
+13058,thai,64460,Thai,cuisine
+15800,vietnamese,64461,Vietnamese,cuisine
+16418,peruvian,6953044,Peruvian,cuisine
+21403,brazilian,64446,Brazilian,cuisine
+23531,grill,64494,Grill,cooking_style
+24334,bbq,64445,BBQ,cuisine
+24851,kenyan,6953014,Kenyan,cuisine
+26416,haitian,6953041,Haitian,cuisine
+29403,persian,6953042,Persian,cuisine
+30487,ethiopian,6953013,Ethiopian,cuisine
+34885,cuban,6953048,Cuban,cuisine
+35526,puerto_rican,6953050,Puerto Rican,cuisine
+35561,soul_food,6953051,Soul Food,cuisine
+37089,indigenous,6953045,Indigenous,cuisine
+37484,laotian,6953046,Laotian,cuisine
+58965,hawaiian,6953012,Hawaiian,cuisine
+61534,no_bake_desserts,188968,no_bake_desserts,method
+74459,lebanese,6953043,Lebanese,cuisine
+76508,south_african,6953015,South African,cuisine
+77261,venezuelan,6953052,Venezuelan,cuisine
